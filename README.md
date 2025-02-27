@@ -7,7 +7,6 @@
         As of February 26, 2025, the darknet market ecosystem continues to evolve, shaped by law enforcement crackdowns, technological advancements, and shifting user demands. Markets rise and fall, but a few have solidified their positions as leaders thanks to robust security, diverse offerings, and loyal communities. In this article, we’ll explore four standout darknet markets—Abacus Market, Archetyp Market, Drughub Market, and Incognito Market—diving into their features, histories, and what sets them apart in this clandestine digital frontier.
     </p>
     <img src="https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" alt="Darknet Concept Image">
-
     <div class="market-section">
         <h2>Abacus Market</h2>
         <p>

@@ -1,5 +1,6 @@
 <body>
     <h1>Top Darknet Markets in 2025: A Deep Dive</h1>
+    <p><strong>Link:</strong> <a href="https://dmtor.com/" target="_blank">https://dmtor.com/</a></p>
     <p>
         The darknet, often misunderstood as a shadowy corner of the internet, is a network of encrypted sites accessible only through tools like Tor or I2P. Far from the mainstream web, it operates beyond the reach of traditional search engines, offering a haven for privacy enthusiasts, whistleblowers, and, yes, those engaged in less savory activities. Among its most infamous features are darknet markets—online platforms where users buy and sell everything from rare collectibles to illicit goods, all cloaked in layers of anonymity.
     </p>
